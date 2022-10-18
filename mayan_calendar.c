@@ -1,7 +1,7 @@
 /*
   Mayan Calendar
   Description: Conversion between the Mayan Calendar and Gregorian Calendar
-  Problem: https://www.olympiad.org.uk/programs/bio1995-samples/bio95_sm.html
+  Problem: https://www.olympiad.org.uk/papers/2004/bio/q1.html
   Author: Kieran Grayshon
 */
 

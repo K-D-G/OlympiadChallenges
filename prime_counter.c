@@ -1,4 +1,10 @@
-//Olympiad Prime number problem
+
+/*
+  Prime Counter
+  Description: Counts the amount of prime numbers up to M and outputs them
+  Problem: https://www.olympiad.org.uk/programs/bio1995-samples/bio95_sm.html
+  Author: Kieran Grayshon
+*/
 #include <stdio.h>
 
 int main(){
